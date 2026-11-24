@@ -1,0 +1,16 @@
+EmployeeID,Name,Age,Gender,Department,Salary,Experience,City,PerformanceScore,JoiningYear
+101,Aarav,25,Male,IT,45000,2,Delhi,85,2023
+102,Priya,29,Female,HR,52000,5,Mumbai,90,2020
+103,Rahul,32,Male,Finance,65000,8,Delhi,78,2018
+104,Sneha,27,Female,IT,48000,3,Pune,88,2022
+105,Amit,35,Male,Sales,72000,10,Mumbai,92,2016
+106,Neha,24,Female,Marketing,40000,1,Delhi,75,2024
+107,Vikram,41,Male,IT,95000,15,Bangalore,95,2010
+108,Ananya,30,Female,Finance,68000,6,Pune,89,2019
+109,Rohan,28,Male,Sales,55000,4,Delhi,82,2021
+110,Pooja,33,Female,HR,58000,7,Mumbai,87,2017
+111,Karan,26,Male,Marketing,42000,2,Pune,80,2023
+112,Ishita,38,Female,IT,85000,12,Bangalore,94,2013
+113,Arjun,31,Male,Finance,62000,6,Delhi,86,2019
+114,Meera,29,Female,Sales,60000,5,Mumbai,91,2020
+115,Aditya,36,Male,IT,90000,11,Bangalore,93,2015
